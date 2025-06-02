@@ -6,3 +6,8 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+git checkout bug-fix-typo
+2023 xyz, inc.
+git add README.md
+git commit -m "Update footer to 2023 xyz, inc."
+git push origin bug-fix-typo
